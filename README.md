@@ -33,3 +33,6 @@ python face_detector.py -h
 ````
 python face_detector.py --input path_to_you_image --output path_to_output_dir
 ````
+
+##  Models
+You can download the pretrained models here [mobilenet](https://github.com/elliottzheng/face-detection/releases/download/0.0.1/mobilenet0.25_Final.pth) and [resnet50](https://github.com/serengil/deepface_models/releases/download/v1.0/retinaface.h5)
